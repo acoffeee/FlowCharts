@@ -151,6 +151,24 @@
         <mxCell id="AaifSRh9_2TXdh-Vw5pC-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Lidarr" vertex="1">
           <mxGeometry height="40" width="90" x="-625" y="980" as="geometry" />
         </mxCell>
+        <mxCell id="AaifSRh9_2TXdh-Vw5pC-57" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="250" width="100" x="-515" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="AaifSRh9_2TXdh-Vw5pC-60" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Adguard" vertex="1">
+          <mxGeometry height="40" width="90" x="-510" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="AaifSRh9_2TXdh-Vw5pC-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Traefik" vertex="1">
+          <mxGeometry height="40" width="90" x="-510" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="AaifSRh9_2TXdh-Vw5pC-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Tailscale" vertex="1">
+          <mxGeometry height="40" width="90" x="-510" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="AaifSRh9_2TXdh-Vw5pC-65" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="250" width="100" x="-400" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="AaifSRh9_2TXdh-Vw5pC-66" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Adguard" vertex="1">
+          <mxGeometry height="40" width="90" x="-395" y="800" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
