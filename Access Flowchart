@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.6.3">
   <diagram name="Page-1" id="vYTvkNnzLXFevPKZ9g3U">
-    <mxGraphModel dx="1722" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1451" dy="297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -135,6 +135,21 @@
         </mxCell>
         <mxCell id="AaifSRh9_2TXdh-Vw5pC-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="unRAID dashboard" vertex="1">
           <mxGeometry height="40" width="90" x="-735" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="AaifSRh9_2TXdh-Vw5pC-52" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="250" width="100" x="-630" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="AaifSRh9_2TXdh-Vw5pC-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Seer&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20parent%3D%221%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20value%3D%22Grafana%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%2240%22%20width%3D%2290%22%20x%3D%22-735%22%20y%3D%22800%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="90" x="-625" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="AaifSRh9_2TXdh-Vw5pC-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sonar" vertex="1">
+          <mxGeometry height="40" width="90" x="-625" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="AaifSRh9_2TXdh-Vw5pC-55" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Radarr" vertex="1">
+          <mxGeometry height="40" width="90" x="-625" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="AaifSRh9_2TXdh-Vw5pC-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Lidarr" vertex="1">
+          <mxGeometry height="40" width="90" x="-625" y="980" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
