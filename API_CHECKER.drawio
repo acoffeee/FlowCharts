@@ -1,0 +1,79 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="Td61F9NNyUXDObelWgF_">
+    <mxGraphModel dx="570" dy="1385" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GEH5SacGRXS3JW53n6Wc-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="121" width="120" x="170" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="GEH5SacGRXS3JW53n6Wc-17" edge="1" parent="1" source="qLE3Bc9N9Q-zdY8nFew7-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GEH5SacGRXS3JW53n6Wc-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qLE3Bc9N9Q-zdY8nFew7-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="front end" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qLE3Bc9N9Q-zdY8nFew7-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="env variables" vertex="1">
+          <mxGeometry height="60" width="120" x="170" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="GEH5SacGRXS3JW53n6Wc-33" edge="1" parent="1" source="qLE3Bc9N9Q-zdY8nFew7-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="GEH5SacGRXS3JW53n6Wc-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qLE3Bc9N9Q-zdY8nFew7-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Server&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="GEH5SacGRXS3JW53n6Wc-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GET" vertex="1">
+          <mxGeometry height="25" width="60" x="200" y="128.5" as="geometry" />
+        </mxCell>
+        <mxCell id="GEH5SacGRXS3JW53n6Wc-21" edge="1" parent="1" source="GEH5SacGRXS3JW53n6Wc-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="GEH5SacGRXS3JW53n6Wc-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEH5SacGRXS3JW53n6Wc-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="public" vertex="1">
+          <mxGeometry height="40" width="60" x="200" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GEH5SacGRXS3JW53n6Wc-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="latest_ping" vertex="1">
+          <mxGeometry height="25" width="70" x="195" y="161" as="geometry" />
+        </mxCell>
+        <mxCell id="GEH5SacGRXS3JW53n6Wc-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="ping?limit=xxx" vertex="1">
+          <mxGeometry height="25" width="90" x="185" y="196" as="geometry" />
+        </mxCell>
+        <mxCell id="GEH5SacGRXS3JW53n6Wc-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="121" width="120" x="335" y="113" as="geometry" />
+        </mxCell>
+        <mxCell id="GEH5SacGRXS3JW53n6Wc-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="POST" vertex="1">
+          <mxGeometry height="25" width="70" x="360" y="136" as="geometry" />
+        </mxCell>
+        <mxCell id="GEH5SacGRXS3JW53n6Wc-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="upload_ping" vertex="1">
+          <mxGeometry height="25" width="80" x="470" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GEH5SacGRXS3JW53n6Wc-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="payload&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;{&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&quot;callbackurl&quot;: xxx,&lt;br&gt;&lt;/div&gt;&lt;div&gt;&quot;x-api-key&quot;: xxx&lt;/div&gt;&lt;div&gt;}&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="83.5" width="170" x="570" y="-3.5" as="geometry" />
+        </mxCell>
+        <mxCell id="GEH5SacGRXS3JW53n6Wc-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="aws lambda" vertex="1">
+          <mxGeometry height="25" width="120" x="865" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GEH5SacGRXS3JW53n6Wc-32" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Scheduler" vertex="1">
+          <mxGeometry height="80" width="120" x="550" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="GEH5SacGRXS3JW53n6Wc-42" edge="1" parent="1" source="GEH5SacGRXS3JW53n6Wc-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GEH5SacGRXS3JW53n6Wc-32" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEH5SacGRXS3JW53n6Wc-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Every 60 seconds" vertex="1">
+          <mxGeometry height="50" width="120" x="550" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="GEH5SacGRXS3JW53n6Wc-39" edge="1" parent="1" source="GEH5SacGRXS3JW53n6Wc-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="GEH5SacGRXS3JW53n6Wc-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEH5SacGRXS3JW53n6Wc-36" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="run AWS Lambdas" vertex="1">
+          <mxGeometry height="80" width="120" x="870" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="GEH5SacGRXS3JW53n6Wc-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Reads the .env for&amp;nbsp;&lt;div&gt;AWS_ARLS = &quot;arl,arl,arl,arl&quot;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="870" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="GEH5SacGRXS3JW53n6Wc-43" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="#cfg(feature = &quot;FAAS&quot;)" vertex="1">
+          <mxGeometry height="60" width="120" x="760" y="340" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
